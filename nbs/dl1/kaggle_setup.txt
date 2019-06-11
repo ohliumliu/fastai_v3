@@ -1,0 +1,5 @@
+mkdir -p ~/.kaggle/
+echo '{"username":"ohliumliu","key":"64d6235a5b894aa080ae786d63020c46"}' > ~/.kaggle/kaggle.json
+cat ~/.kaggle/kaggle.json
+
+chmod 600 ~/.kaggle/kaggle.json
