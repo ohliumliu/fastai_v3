@@ -1,0 +1,18 @@
+# Competition: APTOS 2019 Blindness Detection
+
+# Leader board results
+
+|model|commit|LB score|
+|-----|------|--------|
+|resnet34, simple|6|0.704|
+|resnet50, unfreeze|7|0.684|
+|resent50, simple|8|0.666|
+|resnet34, unfreeze|9|0.656|
+|resnet34, sz512, simple|10|0.564|
+|resnet34, sz512, simple|10|0.564|
+|resnet34-simple+optimizedrounder|14|0.714|
+
+# 20190816
+
+* Try label smoothing
+* file: blind-part4
