@@ -14,5 +14,11 @@
 
 # 20190816
 
-* Try label smoothing
+* Try mix-up, label smoothing and lr schedule
 * file: blind-part4
+* doesn't seem to help
+
+# 20190915
+
+* Try 2015 data
+* file: blind-2015-data
